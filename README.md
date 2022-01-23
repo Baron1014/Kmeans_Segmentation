@@ -1,3 +1,7 @@
+## Content
+- [Project Description](#project-description)
+- [Prepare the data](#prepare-the-data)
+- [Result](#result)
 ## Project Description
 K-means clustering is popular in the field of data mining as a cluster analysis method. This project uses the K-means algorithm for image segmentation.
 
